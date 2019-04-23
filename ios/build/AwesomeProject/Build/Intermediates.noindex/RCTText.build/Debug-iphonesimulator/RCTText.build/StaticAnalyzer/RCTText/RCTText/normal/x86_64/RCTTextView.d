@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/Libraries/Text/RCTTextTransform.h

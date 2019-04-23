@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.m \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowView.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Views/RCTLayout.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/ios/build/AwesomeProject/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/Surface/RCTSurfaceRootShadowViewDelegate.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Modules/RCTI18nUtil.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Views/RCTShadowView+Layout.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Modules/RCTUIManagerUtils.h \
+  /Users/blinkteam/Desktop/redux/AwesomeProject/node_modules/react-native/React/Base/RCTAssert.h
